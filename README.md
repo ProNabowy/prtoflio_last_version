@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/pronabowy" target="blank"><img src="https://img.shields.io/twitter/follow/pronabowy?logo=twitter&style=for-the-badge" alt="pronabowy" /></a> </p>
 
-- 🔭 I’m currently working on [Project]([https://buyigetvapesydney.com/](https://dashboardrovle-es.eslamghazy.net/))
+- 🔭 I’m currently working on [[https://dashboardrovle-es.eslamghazy.net](https://dashboardrovle-es.eslamghazy.net/)/]
 
 - 🌱 I’m currently learning **React, algorithm && data structure**
 
-- 👯 I’m looking to collaborate on [[https://abram.com.sa/](https://abram.com.sa/)]
+- 👯 I’m looking to collaborate on [https://abram.com.sa/](https://abram.com.sa/)
 
 - 👨‍💻 All of my projects are available at [https://web.nabowy.online/](https://web.nabowy.online/)
 
