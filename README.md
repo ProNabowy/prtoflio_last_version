@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nabowy.work@gmail.com**
 
-- 📄 Know about my experiences [https://raw.githubusercontent.com/ProNabowy/Portfolio_img/blob/57124868f1a26849f261161a122068e701661b16/Mahmoud%20E-Nabowy%20-%20Frontend%20Engineer%20.pdf](https://raw.githubusercontent.com/ProNabowy/Portfolio_img/blob/57124868f1a26849f261161a122068e701661b16/Mahmoud%20E-Nabowy%20-%20Frontend%20Engineer%20.pdf)
+- 📄 Know about my experiences [[https://raw.githubusercontent.com/ProNabowy/Portfolio_img/main/Mahmoud%20E-Nabowy%20-%20Frontend%20Engineer%20.pdf](https://raw.githubusercontent.com/ProNabowy/Portfolio_img/main/Mahmoud%20E-Nabowy%20-%20Frontend%20Engineer%20.pdf)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
