@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, algorithm && data structure**
 
-- 👯 I’m looking to collaborate on [[https://web.nabowy.online/](https://abram.com.sa/)]
+- 👯 I’m looking to collaborate on [[https://abram.com.sa/](https://abram.com.sa/)]
 
 - 👨‍💻 All of my projects are available at [https://web.nabowy.online/](https://web.nabowy.online/)
 
