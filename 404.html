@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Redirecting...</title>
     <script>
-        // Redirect any unknown route to the root (index.html)
+        // Capture the current path and query parameters
+        var redirectTo = window.location.pathname + window.location.search + window.location.hash;
+
+        // Store it temporarily in session storage
+        sessionStorage.setItem('redirectAfterReload', redirectTo);
+
+        // Redirect to index.html
         window.location.replace('/');
     </script>
 </head>
-
 <body>
     <p>Redirecting...</p>
 </body>
-
 </html>
